@@ -3,3 +3,9 @@ https://elderlylife.co.uk/*      https://www.elderlylife.com/:splat  301!
 https://www.elderlylife.co.uk/*  https://www.elderlylife.com/:splat  301!
 http://elderlylife.co.uk/*       https://www.elderlylife.com/:splat  301!
 http://www.elderlylife.co.uk/*   https://www.elderlylife.com/:splat  301!
+
+# The old app and admin logins have closed: send every page on them to the homepage.
+https://app.elderlylife.com/*    https://www.elderlylife.com/  301!
+https://admin.elderlylife.com/*  https://www.elderlylife.com/  301!
+http://app.elderlylife.com/*     https://www.elderlylife.com/  301!
+http://admin.elderlylife.com/*   https://www.elderlylife.com/  301!
